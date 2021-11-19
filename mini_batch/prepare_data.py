@@ -1,5 +1,6 @@
 import gzip
-import cPickle
+# import cPickle
+import pickle
 import numpy
 
 def arg_passing(argv):
